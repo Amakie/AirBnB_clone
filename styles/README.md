@@ -10,4 +10,4 @@ The "styles" directory contains all the CSS (Cascading Style Sheets) files used 
 
 **Usage**:
 
-Feel free to make changes and updates to these stylesheets as needed to match the design and layout requirements of your project. Remember to link these stylesheets to your HTML documents in the appropriate locations.
+Feel free to make changes and updates to these stylesheets as needed to match the design and layout requirements of your project. Remember to link these stylesheets to your HTML documents in the appropriate locations..

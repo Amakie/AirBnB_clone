@@ -14,4 +14,4 @@ The "images" directory is where we store all the image files used in our website
 
 You can add, replace, or modify images in this directory as needed for your project. When referencing images in your HTML documents or CSS styles, use the appropriate file paths to ensure they display correctly.
 
-Please maintain a well-organized structure within the "images" directory to make it easier to manage and reference images throughout your project.
+Please maintain a well-organized structure within the "images" directory to make it easier to manage and reference images throughout your project..

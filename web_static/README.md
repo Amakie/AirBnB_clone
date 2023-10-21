@@ -70,4 +70,4 @@ You are tasked to come up with solutions for the tasks yourself to meet the lear
 Please refer to each file for specific tasks and details. Make sure to follow the project requirements and keep your code W3C compliant and well-structured. Happy coding!
 ```
 
-This README.md provides an overview of the project, its objectives, the directory structure, and important guidelines for completing the tasks. It serves as a reference for anyone working on the project.
+This README.md provides an overview of the project, its objectives, the directory structure, and important guidelines for completing the tasks. It serves as a reference for anyone working on the project..
